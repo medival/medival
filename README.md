@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 <p align="center">
   <a href="https://github.com/medival" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=medival&title_color=333&text_color=777" alt="Adi Purnomo's Stats" >
@@ -23,5 +22,3 @@
   <strong>Check out my work below!</strong>
   <br><br>
 </p>
-
--->
