@@ -1,3 +1,4 @@
+# Hi, I'm Adi :wave: 
 ![](https://sdtimes.com/wp-content/uploads/2017/10/29682337-83f3017e-88bf-11e7-846c-138e9639b87f.png)
 
 [![Linkedin: Adi Purnomo](https://img.shields.io/badge/-medival-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiipurnomo/)](https://www.linkedin.com/in/adiipurnomo/)
