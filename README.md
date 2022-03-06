@@ -30,3 +30,4 @@
 ![CSS3](https://img.shields.io/badge/Tailwind-intermediate-cyan)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-intermediate-orange)
 
+![Medival's GitHub stats](https://github-readme-stats.vercel.app/api?username=medival&show_icons=true&theme=radical)
