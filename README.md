@@ -12,22 +12,27 @@
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me: **dev.adipurnomo.com** or [![Linkedin: Adi Purnomo](https://img.shields.io/badge/-medival-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiipurnomo/)](https://www.linkedin.com/in/adiipurnomo/)
 
-##### Tech Stacks
+#### Tech Stacks 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-intermediate-blue)
 ![Jenkins](https://img.shields.io/badge/Jenkins-intermediate-white)
 ![ELK Stacks](https://img.shields.io/badge/ELK-intermediate-green)
 ![Prometheus & Grafana](https://img.shields.io/badge/Prometehus&Grafana-intermediate-orange)
 ![GCP](https://img.shields.io/badge/GCP-intermediate-green)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-intermediate-orange)
-
-##### Scripting
+  
+#### Scripting
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-green)
-
-##### Programming Language
+  
+#### Programming Language
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Beginner-lightblue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediet-purple)
 ![CSS3](https://img.shields.io/badge/Tailwind-intermediate-cyan)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-intermediate-orange)
+  
+#### Medival Github Stats 
 
-![Medival's GitHub stats](https://github-readme-stats.vercel.app/api?username=medival&show_icons=true&theme=radical)
+<p align= center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=medival&show_icons=true&theme=radical" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=medival&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
