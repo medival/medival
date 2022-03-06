@@ -1,16 +1,31 @@
 ![](https://sdtimes.com/wp-content/uploads/2017/10/29682337-83f3017e-88bf-11e7-846c-138e9639b87f.png)
 
-<p>
-  <h1 align="center">
-    <b>Hello there, I'm <a href="https://github.com/medival">@medival </a> aka Adi Purnomo 👋</b>
-  </h1>
-  <h3 align="center">
-    Front-End Web Developer x Network Engineer 🚀
-  </h3>
-</p>
+[![Linkedin: Adi Purnomo](https://img.shields.io/badge/-medival-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiipurnomo/)](https://www.linkedin.com/in/adiipurnomo/)
+[![GitHub medival](https://img.shields.io/github/followers/medival?label=follow&style=social)](https://github.com/medival)
+[![GitHub medival](https://img.shields.io/github/stars/medival?label=stars&style=social)](https://github.com/medival)
 
-<p align="center">
-  <a href="https://github.com/medival">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=medival&show_icons=true&theme=blue&count_private=true&include_all_commits=true" />
-  </a>
-</p>
+
+- 🔭 I’m currently working as **Jr. DevOps Engineer**
+- 🌱 I’m currently learning **Cloud Computing, AWS, GCP, Kubernetes, CI/CD Tools**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 💬 Ask me about **DevOps**
+- 📫 How to reach me: **dev.adipurnomo.com** or [![Linkedin: Adi Purnomo](https://img.shields.io/badge/-medival-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiipurnomo/)](https://www.linkedin.com/in/adiipurnomo/)
+
+##### Tech Stacks
+![Kubernetes](https://img.shields.io/badge/Kubernetes-intermediate-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-intermediate-white)
+![ELK Stacks](https://img.shields.io/badge/ELK-intermediate-green)
+![Prometheus & Grafana](https://img.shields.io/badge/Prometehus&Grafana-intermediate-orange)
+![GCP](https://img.shields.io/badge/GCP-intermediate-green)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-intermediate-orange)
+
+##### Scripting
+![Bash](https://img.shields.io/badge/Bash-Intermediate-green)
+
+##### Programming Language
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![PHP](https://img.shields.io/badge/PHP-Beginner-lightblue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediet-purple)
+![CSS3](https://img.shields.io/badge/Tailwind-intermediate-cyan)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-intermediate-orange)
+
