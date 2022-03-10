@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Cloud Computing, AWS, GCP, Kubernetes, CI/CD Tools**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me: **dev.adipurnomo.com** or [![Linkedin: Adi Purnomo](https://img.shields.io/badge/-medival-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiipurnomo/)](https://www.linkedin.com/in/adiipurnomo/)
+- 📫 How to reach me: **dev.adipurnomo@gmail.com** or [![Linkedin: Adi Purnomo](https://img.shields.io/badge/-medival-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiipurnomo/)](https://www.linkedin.com/in/adiipurnomo/)
 
 #### Tech Stacks 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-intermediate-blue)
